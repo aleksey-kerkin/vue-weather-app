@@ -18,7 +18,7 @@ An expense tracker app built with Vue 3 and the composition API.
 
 ### Screenshot
 
-![Desktop](./screenshots/desktop.png) |
+![Desktop](./screenshots/desktop.png)
 
 ## Built with
 
